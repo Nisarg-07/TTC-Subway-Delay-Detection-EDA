@@ -21,7 +21,7 @@
 - The data belongs to year **2022** and it has total **20K** entries.
 - We have also collected **Longitude** and **Latitude** for each **subway station** from each line using Mapquest API.
 
-# Data Prepration
+## Data Prepration
 - **Removing Duplicates:**
   - There were **15 duplicate records** so we simply **drop** thoes records.
   <br>
@@ -36,3 +36,25 @@
   - Instead of **75** station column has **259 unique** entries.
     - Includes (**spelling mistakes, Spacing issue, differnt names for similar stations**)
   - We used **Regex** to clean this column.
+
+## EDA 
+**1 TTC Subway Map**<br>
+<br>
+<img width="990" alt="Screenshot 2024-07-17 at 11 05 49 AM" src="https://github.com/user-attachments/assets/a96ddedf-5de0-48d4-a2b3-2e496ef85506"><br>
+  <br>
+- In the above scatter plot each **scatter represent** the **station** they are inter connected as per the subway line and by hovering mouse pointer we can get the **Line number**, **station name**, **longitude** and **Latitude** for that station.<br>
+<br>
+
+
+**2 Delay count in each line**
+<img width="986" alt="Screenshot 2024-07-17 at 11 13 02 AM" src="https://github.com/user-attachments/assets/b610ceab-aff9-4bf8-bf96-48c1370ca417"><br>
+<br>
+- From the above bar graph we can say that there were **5170 incidents** noted in **Line number 1** which was hightest among all the subway lines.
+<br>
+
+**3 Delay count in bounds**
+<img width="947" alt="Screenshot 2024-07-17 at 11 20 21 AM" src="https://github.com/user-attachments/assets/19065c23-9092-4b9a-9fd3-b0658170383e">
+- Again from the above **piechart** the max delay can be seen in **North** and **south** bounds which is again **Line number 1**.
+
+****
+
