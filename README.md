@@ -46,27 +46,77 @@
 <br>
 
 
+---
+
+
+
 **2 Delay count in each line**
 <img width="986" alt="Screenshot 2024-07-17 at 11 13 02 AM" src="https://github.com/user-attachments/assets/b610ceab-aff9-4bf8-bf96-48c1370ca417"><br>
 <br>
 - From the above bar graph we can say that there were **5170 incidents** noted in **Line number 1** which was hightest among all the subway lines.
 <br>
 
+
+---
+
+
 **3 Delay count in bounds**
 <img width="947" alt="Screenshot 2024-07-17 at 11 20 21 AM" src="https://github.com/user-attachments/assets/19065c23-9092-4b9a-9fd3-b0658170383e">
 - Again from the above **piechart** the max delay can be seen in **North** and **south** bounds which is again **Line number 1**.
-
+---
 **4 Delay count in days**
 <img width="988" alt="Screenshot 2024-07-17 at 12 21 59 PM" src="https://github.com/user-attachments/assets/59b209b5-6f2b-47d9-9f9f-3858b9dc6171">
 - From the above pie chart it can be said that **higher delays** can be seen in the **weeks days** as lots of people travel to **Downtown** for the **work**, which really make sense.
-
+---
 **5 Sum of Min Delay by months**
 <img width="988" alt="Screenshot 2024-07-17 at 12 35 29 PM" src="https://github.com/user-attachments/assets/27cc098e-68d6-4950-aca5-14cc11e82ace">
 - In the month of **January** the total time between two trains in minutes was **exceptionally higher** which was a little over **7500 minutes**(we are considerng all of the 4 lines here).
-
+---
 **6 Delay trend in differnt hours**
 <img width="988" alt="Screenshot 2024-07-17 at 12 41 44 PM" src="https://github.com/user-attachments/assets/aff27f03-e6d3-4c24-a715-f16a86386911">
 - The **Min delay** around **6PM** was higher considering **employee rush** towards **home**.
+---
+**7 Delay distribution by Codes**
+<img width="988" alt="Screenshot 2024-07-17 at 12 59 18 PM" src="https://github.com/user-attachments/assets/5808c3bc-aefc-452d-a76e-786f341c0cf6">
+- From the above bar graph we can say that the most the time delay was happened because of the followeing reasons.
+  - **SUDP :** Disorderly Patron
+  - **PUOPO :** Train Door Monitoring
+  - **MUPAA :** Passenger Assistance Alarm Activated – no trouble found
+---
+**8 Top 4 station from each line with highest delay frquency**
+<img width="988" alt="Screenshot 2024-07-17 at 1 01 14 PM" src="https://github.com/user-attachments/assets/33b21d6e-a457-44b8-82a3-432fa94c7712">
+- From the above graph we can say that in each line **higher delay was seen** in it's **first station** and **last station**.
+---
+**9 Delay time X Days**<br>
+<br>
+<img width="815" alt="Screenshot 2024-07-17 at 1 04 45 PM" src="https://github.com/user-attachments/assets/684b9651-fd8a-48fc-a18a-1609c18cddc5"><br>
+- From the above graph we can say that on **weekends delay time** is **higher** by considering frequency of subways.
+---
+**10 Delay X Lines**<br>
+<br>
+<img width="819" alt="Screenshot 2024-07-17 at 1 08 19 PM" src="https://github.com/user-attachments/assets/61491b2e-8548-4a30-b255-a3ee9c931b27">
+- Delay in **SRT** was **higher** than the other subway lines.
+---
+**11 Delay in each line X days**<br>
+<br>
+<img width="821" alt="Screenshot 2024-07-17 at 1 11 20 PM" src="https://github.com/user-attachments/assets/5ddcc7bf-249a-4480-a38d-1b157f4bfec4">
+- Agian almost everyday **higher delay** was seen in **SRT**.
+---
+**12 Delay Reson in January**<br>
+<br>
+<img width="959" alt="Screenshot 2024-07-17 at 1 15 52 PM" src="https://github.com/user-attachments/assets/8b065201-1b79-4fc6-a999-44a4fc6973b5">
+- The above Bubble chart shows that the in the **2nd half** of January the higher delay was seen many times and the reson being it was extream weather condition.
+### The above were the insights we gather from the 2022 TTC subway delay data.
+## Huge Thanks to
+- **Darshan Ruparel (Team mate) :** https://github.com/DarshanR24, https://www.linkedin.com/in/darshanruparel/
+
+- **Mohhamed Saiful islam (Professor) :** https://github.com/msi-ru-cs , https://www.linkedin.com/in/mohammadsaifulislam/
+
+**Nisarg Patel © 2024**
+
+
+
+
 
 
 
