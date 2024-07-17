@@ -56,5 +56,17 @@
 <img width="947" alt="Screenshot 2024-07-17 at 11 20 21 AM" src="https://github.com/user-attachments/assets/19065c23-9092-4b9a-9fd3-b0658170383e">
 - Again from the above **piechart** the max delay can be seen in **North** and **south** bounds which is again **Line number 1**.
 
-****
+**4 Delay count in days**
+<img width="988" alt="Screenshot 2024-07-17 at 12 21 59 PM" src="https://github.com/user-attachments/assets/59b209b5-6f2b-47d9-9f9f-3858b9dc6171">
+- From the above pie chart it can be said that **higher delays** can be seen in the **weeks days** as lots of people travel to **Downtown** for the **work**, which really make sense.
+
+**5 Sum of Min Delay by months**
+<img width="988" alt="Screenshot 2024-07-17 at 12 35 29 PM" src="https://github.com/user-attachments/assets/27cc098e-68d6-4950-aca5-14cc11e82ace">
+- In the month of **January** the total time between two trains in minutes was **exceptionally higher** which was a little over **7500 minutes**(we are considerng all of the 4 lines here).
+
+**6 Delay trend in differnt hours**
+<img width="988" alt="Screenshot 2024-07-17 at 12 41 44 PM" src="https://github.com/user-attachments/assets/aff27f03-e6d3-4c24-a715-f16a86386911">
+- The **Min delay** around **6PM** was higher considering **employee rush** towards **home**.
+
+
 
